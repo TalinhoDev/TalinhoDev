@@ -1,28 +1,21 @@
-# Olá, sou Talisson Souza 👋
+# 👋 Olá, sou Talisson Souza  
 
-Sou o CEO da [CheetahSolutions](https://github.com/CheetahSolutions) e da [CypherCloud](https://discord.gg/YpsFzkWQcG). Minha paixão é liderar equipes inovadoras e desenvolver soluções tecnológicas que transformam ideias em realidade.
+Sou desenvolvedor de software, Python Developer Freelancer e CEO da [Cheetah Network](https://github.com/CheetahNetwork), Werneck Group e [Cypher Cloud](https://discord.gg/YpsFzkWQzG). Minha experiência abrange desde o desenvolvimento de bots para comunidades digitais até soluções empresariais estratégicas para startups e empresas de tecnologia.  
 
-## 🏡 Sobre Mim
+## 🌐 Experiência Profissional  
 
-Com uma trajetória sólida em tecnologia e negócios, meu foco tem sido sempre a excelência em entrega de projetos e a criação de valor para os clientes. Minha experiência abrange desde o desenvolvimento de software até a gestão estratégica de empresas de tecnologia.
+- **Desenvolvimento de Software:** Criação e manutenção de soluções escaláveis e seguras, focadas na experiência do usuário e em eficiência.  
+- **Programação em Python:** Desenvolvimento de ferramentas personalizadas, automação de processos e análise de dados para empresas e projetos individuais.  
+- **Programação de Bots para Discord:** Desenvolvimento de bots com funcionalidades avançadas para otimizar a comunicação e gestão de comunidades digitais.  
+- **Gestão e Liderança:** Como CEO, lidero equipes multidisciplinares para entregar projetos inovadores que agregam valor aos nossos clientes e parceiros.  
+- **Criação de Conteúdo:** Produção de conteúdo focado em tecnologia e games no YouTube e Twitch, com ênfase em GTA SA:MP, contribuindo para a expansão da comunidade gamer.  
 
-## 😀 Minhas Contribuições
+## 🚀 Minhas Funções  
 
-Aqui no GitHub, você encontrará uma variedade de projetos que refletem minha jornada e interesses na área de tecnologia. Alguns dos meus repositórios incluem:
+- Desenvolvedor de Software  
+- Python Developer Freelancer  
+- Programador de Bots para Discord  
+- Criador de Conteúdo no YouTube e Twitch  
+- CEO da Cheetah Network, Werneck Group e Cypher Cloud  
 
-- 👨‍🚒 [Talinho Bot (Beta)](https://github.com/iSimplez/talinho-bot) - Jogue, divirta-se e interaja com amigos e membros da sua comunidade com o Talinho.
-- 💻 [Cheetah Solutions!](https://cheetah-solutions.netlify.app/en) - Site onde demonstramos as capacidades dos nossos desenvolvedores Front-End . Utilizando [Next.js](https://nextjs.org/), criamos uma interface moderna e aconchegante.
-
-## 📎 Conecte-se Comigo
-
-Estou sempre aberto a novas oportunidades de networking e colaboração. Sinta-se à vontade para se conectar comigo através das minhas redes sociais:
-
-- [YouTube](https://youtube.com/@TalissonSouza)
-- [Instagram](https://www.instagram.com/_talissonzx/)
-- [Email](contatotalissonsouza@gmail.com)
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
-
-Obrigado por visitar meu perfil!
+Estou sempre em busca de novos desafios e oportunidades para inovar e construir soluções que impactem positivamente empresas e comunidades digitais.  
