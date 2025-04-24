@@ -1,21 +1,7 @@
-# 👋 Olá, sou Talisson Souza  
+Olá, Chamo-me Talisson Souza. Sou CEO de varias empresas no ramo da tecnologia e inovação e também sou desenvolvedor full-stack. Entrei no mundo da tecnologia por curiosidade, mas com o tempo e dedicação e principalmente pratica, decidi fazer carreira devido ao meu campeonamento de criação de tudo. Desde a sua primeira linah e sua ultima vírgula, eu sou a tecnologia e memento em que respiramos.
 
-Sou desenvolvedor de software, Python Developer Freelancer e CEO da [Cheetah Network](https://github.com/CheetahNetwork), Werneck Group e [Cypher Cloud](https://discord.gg/YpsFzkWQzG). Minha experiência abrange desde o desenvolvimento de bots para comunidades digitais até soluções empresariais estratégicas para startups e empresas de tecnologia.  
+Minha formação foi 90% autodidata por sempre querer aprender mais sobre tudo, desde desenvolvimento web e mobile até automações complexas, bots inteligentes e infraestrutura de servidores. Sou full stack developer e, portanto, tenho proficiência tanto no lado do cliente quanto no lado do servidor, o que me qualifica a entender todo o desenvolvimento, desde UI até Business Logic.
 
-## 🌐 Experiência Profissional  
+Atualmente, estou liderando uma série de projetos de negócios no sentido de entrega de soluções tecnológicas adaptativas para comunidades, criadores de conteúdo, empresas e servidores online. Estou usando programador de sistemas web, APIs e bots do Discord, soluções em nuvem, automações e integração com outras plataformas e outros e outros. Ao mesmo tempo, estar ciente e ser ágil não deve significar bruta violação do respeito às necessidades das pessoas que estão do outro lado da tela.
 
-- **Desenvolvimento de Software:** Criação e manutenção de soluções escaláveis e seguras, focadas na experiência do usuário e em eficiência.  
-- **Programação em Python:** Desenvolvimento de ferramentas personalizadas, automação de processos e análise de dados para empresas e projetos individuais.  
-- **Programação de Bots para Discord:** Desenvolvimento de bots com funcionalidades avançadas para otimizar a comunicação e gestão de comunidades digitais.  
-- **Gestão e Liderança:** Como CEO, lidero equipes multidisciplinares para entregar projetos inovadores que agregam valor aos nossos clientes e parceiros.  
-- **Criação de Conteúdo:** Produção de conteúdo focado em tecnologia e games no YouTube e Twitch, com ênfase em GTA SA:MP, contribuindo para a expansão da comunidade gamer.  
-
-## 🚀 Minhas Funções  
-
-- Desenvolvedor de Software  
-- Python Developer Freelancer  
-- Programador de Bots para Discord  
-- Criador de Conteúdo no YouTube e Twitch  
-- CEO da Cheetah Network, Werneck Group e Cypher Cloud  
-
-Estou sempre em busca de novos desafios e oportunidades para inovar e construir soluções que impactem positivamente empresas e comunidades digitais.  
+Como líder empresarial, minha missão é reunir pessoas talentosas em torno de um mesmo propósito: criar soluções reais, acessíveis e impactantes. Acredito no trabalho em conjunto, espiritualidade e melhoria. Me sinto muito honrado por todas as informações dos projetos que administrei, do começo ao fim. Sou brilhante insistentemente sobre cada desempenho e ação de saída.
