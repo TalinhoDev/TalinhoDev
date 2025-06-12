@@ -1,12 +1,12 @@
 # Talisson Souza
 
-Olá, Chamo-me Talisson Souza. Sou Desenvolvedor Full Stack, Gerente de Projetos Tecnológicos e CEO da Cheetah Network (Empresa de tecnologia especializada no desenvolvimento de sistemas, softwares, aplicações, APIs e soluções personalizadas). Entrei no mundo da tecnologia por curiosidade, mas com o tempo e dedicação e principalmente pratica, decidi fazer carreira devido ao meu campeonamento de criação de tudo. Desde a sua primeira linah e sua ultima vírgula, eu sou a tecnologia e memento em que respiramos.
+Oi tudo bem? Sou o Talisson Souza, desenvolvedor full stack e gerente de projetos de tecnologia. Entrei nesse mundo meio que na curiosidade, mas com o tempo fui me apaixonando de verdade. Adoro acompanhar tudo que crio, desde a primeira linha de código até os detalhes finais. Tecnologia pra mim é mais que trabalho, é quase um jeito de respirar.
 
-Minha formação foi 90% autodidata por sempre querer aprender mais sobre tudo, desde desenvolvimento web e mobile até automações complexas, bots inteligentes e infraestrutura de servidores. Sou full stack developer e, portanto, tenho proficiência tanto no lado do cliente quanto no lado do servidor, o que me qualifica a entender todo o desenvolvimento, desde UI até Business Logic.
+Eu aprendi muita coisa sozinho, sempre fui atrás de conhecimento. Curto desenvolvimento web, mobile, automações, bots inteligentes e até infraestrutura de servidores. Como full stack, mexo tanto no que você vê na tela quanto no que roda por trás.
 
-Atualmente, estou liderando uma série de projetos de negócios no sentido de entrega de soluções tecnológicas adaptativas para comunidades, criadores de conteúdo, empresas e servidores online. Estou usando programador de sistemas web, APIs e bots do Discord, soluções em nuvem, automações e integração com outras plataformas e outros e outros. Ao mesmo tempo, estar ciente e ser ágil não deve significar bruta violação do respeito às necessidades das pessoas que estão do outro lado da tela.
+Hoje tô liderando vários projetos legais, ajudando comunidades, criadores de conteúdo e empresas a terem soluções tecnológicas que funcionam de verdade. Trabalho com sistemas web, APIs, bots no Discord, nuvem e automações, mas sempre com respeito, porque tem gente do outro lado da tela.
 
-Como líder empresarial, minha missão é reunir pessoas talentosas em torno de um mesmo propósito: criar soluções reais, acessíveis e impactantes. Acredito no trabalho em conjunto, espiritualidade e melhoria. Me sinto muito honrado por todas as informações dos projetos que administrei, do começo ao fim. Sou b
+Gosto muito de juntar pessoas talentosas pra criar coisas bacanas que realmente façam diferença. Fora da tecnologia, meus hobbies são ouvir música. Gosto de Eletrônica, Lo-Fi, Gospel, Sertanejo e de vez em quando ponk. Passo a maior parte do tempo estudando pra aprender mais e melhorar sempre. Gosto de um cafézinho e minha sobremesa favorita é Pudim :)
 
 ---
 
