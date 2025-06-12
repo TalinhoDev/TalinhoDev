@@ -1,4 +1,4 @@
-# Talisson Souza
+# 👋 Talisson Souza
 
 Oi tudo bem? Sou o Talisson Souza, desenvolvedor full stack e gerente de projetos de tecnologia. Entrei nesse mundo meio que na curiosidade, mas com o tempo fui me apaixonando de verdade. Adoro acompanhar tudo que crio, desde a primeira linha de código até os detalhes finais. Tecnologia pra mim é mais que trabalho, é quase um jeito de respirar.
 
@@ -10,7 +10,7 @@ Gosto muito de juntar pessoas talentosas pra criar coisas bacanas que realmente 
 
 ---
 
-## Estatísticas
+## 📊 Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalinhoDev&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
@@ -18,7 +18,7 @@ Gosto muito de juntar pessoas talentosas pra criar coisas bacanas que realmente 
 
 ---
 
-## Conecte-se comigo
+## 🔗 Conecte-se comigo
 
 - GitHub: [github.com/TalinhoDev](https://github.com/TalinhoDev)  
 - LinkedIn: [linkedin.com/in/talinho](https://www.linkedin.com/in/talinho)  
